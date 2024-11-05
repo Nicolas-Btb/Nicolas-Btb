@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Nicolas-Btb
+- 👀 I’m interested in Automation Testing, i'm a QA Engineer
+- 🌱 I’m currently working on Playwright / Cypress for front testing and ReadyApi / Gatling for back & perf testing 
+- 📫 How to reach me : boutouba.pro@gmail.com or linkedIn => Nicolas Boutouba
